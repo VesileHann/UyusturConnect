@@ -1,7 +1,3 @@
-Elbette, işte bu model için GitHub README dosyasının bir örneği:
-
----
-
 # Derin Öğrenme Sınıflandırma Modeli
 
 Bu proje, bir derin öğrenme modelinin kullanılarak çeşitli sınıflandırma problemlerinin çözümünü ve farklı makine öğrenimi sınıflandırıcılarının performanslarının karşılaştırılmasını içermektedir.
@@ -103,11 +99,3 @@ classifier.fit(X, y, epochs=100, batch_size=10)
 accuracy = classifier.evaluate(X, y)
 print(f'Model Accuracy: {accuracy}')
 ```
-
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
----
-
-Yukarıdaki README dosyası, derin öğrenme modelinizin tanımını, kullanılan yöntemleri, performans değerlendirmesini ve projeyi nasıl kurup kullanacağınızı detaylı bir şekilde açıklamaktadır. Bu yapı, projeyi GitHub'da paylaştığınızda diğer kullanıcıların projeyi kolayca anlamasını ve kullanmasını sağlayacaktır.
