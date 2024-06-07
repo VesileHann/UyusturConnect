@@ -10,7 +10,6 @@ Bu proje, bir derin öğrenme modelinin kullanılarak çeşitli sınıflandırma
 - [Performans Değerlendirmesi](#performans-değerlendirmesi)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
-- [Lisans](#lisans)
 
 ## Genel Bakış
 
